@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fintech_2</string>
+    <string name="button_text">skaičiuoti</string>
+    <string name="toast_text">įvesties laukas yra tuščias</string>
+    <string name="result_text">rezultatas: %1$s</string>
+    <string-array name="spinner_array">
+        <item>žodžiai</item>
+        <item>ženklai</item>
+    </string-array>
+</resources>
